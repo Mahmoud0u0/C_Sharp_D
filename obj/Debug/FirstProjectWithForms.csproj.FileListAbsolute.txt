@@ -1,0 +1,13 @@
+C:\Users\97252\Desktop\C++Course\C_SharpCourse\C_Sharp_Syntax\FirstProjectWithForms\bin\Debug\FirstProjectWithForms.exe.config
+C:\Users\97252\Desktop\C++Course\C_SharpCourse\C_Sharp_Syntax\FirstProjectWithForms\bin\Debug\FirstProjectWithForms.exe
+C:\Users\97252\Desktop\C++Course\C_SharpCourse\C_Sharp_Syntax\FirstProjectWithForms\bin\Debug\FirstProjectWithForms.pdb
+C:\Users\97252\Desktop\C++Course\C_SharpCourse\C_Sharp_Syntax\FirstProjectWithForms\obj\Debug\FirstProjectWithForms.csproj.AssemblyReference.cache
+C:\Users\97252\Desktop\C++Course\C_SharpCourse\C_Sharp_Syntax\FirstProjectWithForms\obj\Debug\FirstProjectWithForms.csproj.SuggestedBindingRedirects.cache
+C:\Users\97252\Desktop\C++Course\C_SharpCourse\C_Sharp_Syntax\FirstProjectWithForms\obj\Debug\FirstProjectWithForms.Form1.resources
+C:\Users\97252\Desktop\C++Course\C_SharpCourse\C_Sharp_Syntax\FirstProjectWithForms\obj\Debug\FirstProjectWithForms.Properties.Resources.resources
+C:\Users\97252\Desktop\C++Course\C_SharpCourse\C_Sharp_Syntax\FirstProjectWithForms\obj\Debug\FirstProjectWithForms.csproj.GenerateResource.cache
+C:\Users\97252\Desktop\C++Course\C_SharpCourse\C_Sharp_Syntax\FirstProjectWithForms\obj\Debug\FirstProjectWithForms.csproj.CoreCompileInputs.cache
+C:\Users\97252\Desktop\C++Course\C_SharpCourse\C_Sharp_Syntax\FirstProjectWithForms\obj\Debug\FirstProjectWithForms.exe
+C:\Users\97252\Desktop\C++Course\C_SharpCourse\C_Sharp_Syntax\FirstProjectWithForms\obj\Debug\FirstProjectWithForms.pdb
+C:\Users\97252\Desktop\C++Course\C_SharpCourse\C_Sharp_Syntax\FirstProjectWithForms\obj\Debug\FirstProjectWithForms.frmMain.resources
+C:\Users\97252\Desktop\C++Course\C_SharpCourse\C_Sharp_Syntax\FirstProjectWithForms\obj\Debug\FirstProjectWithForms.frmPizza.resources
