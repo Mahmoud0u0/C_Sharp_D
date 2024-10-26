@@ -87,10 +87,15 @@ namespace FirstProjectWithForms
             {
                 pictureBox1.Image = Resources.f;
             }
-            else
+            else if(comboBox1.SelectedIndex == 3)
             {
-                pictureBox1.Image = Image.FromFile("C:\\Users\\97252\\Pictures\\oruProject\\logo.png");
+                //pictureBox1.Image = Image.FromFile("C:\\Users\\97252\\Pictures\\oruProject\\logo.png");
             }
+        }
+
+        private void monthCalendar1_DateChanged(object sender, DateRangeEventArgs e)
+        {
+
         }
     }
 }

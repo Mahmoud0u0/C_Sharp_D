@@ -1,0 +1,123 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mahmoud\\Desktop\\Cources\\Course_C#\\C_Sharp_D\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9A7FD5D0-6BEF-4659-B5CE-EF30E9C40587}|FirstProjectWithForms.csproj|C:\\Users\\Mahmoud\\Desktop\\Cources\\Course_C#\\C_Sharp_D\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9A7FD5D0-6BEF-4659-B5CE-EF30E9C40587}|FirstProjectWithForms.csproj|solutionrelative:frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A7FD5D0-6BEF-4659-B5CE-EF30E9C40587}|FirstProjectWithForms.csproj|c:\\users\\mahmoud\\desktop\\cources\\course_c#\\c_sharp_d\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A7FD5D0-6BEF-4659-B5CE-EF30E9C40587}|FirstProjectWithForms.csproj|solutionrelative:frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A7FD5D0-6BEF-4659-B5CE-EF30E9C40587}|FirstProjectWithForms.csproj|C:\\Users\\Mahmoud\\Desktop\\Cources\\Course_C#\\C_Sharp_D\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9A7FD5D0-6BEF-4659-B5CE-EF30E9C40587}|FirstProjectWithForms.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A7FD5D0-6BEF-4659-B5CE-EF30E9C40587}|FirstProjectWithForms.csproj|C:\\Users\\Mahmoud\\Desktop\\Cources\\Course_C#\\C_Sharp_D\\frmpizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9A7FD5D0-6BEF-4659-B5CE-EF30E9C40587}|FirstProjectWithForms.csproj|solutionrelative:frmpizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A7FD5D0-6BEF-4659-B5CE-EF30E9C40587}|FirstProjectWithForms.csproj|C:\\Users\\Mahmoud\\Desktop\\Cources\\Course_C#\\C_Sharp_D\\frmpizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A7FD5D0-6BEF-4659-B5CE-EF30E9C40587}|FirstProjectWithForms.csproj|solutionrelative:frmpizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A7FD5D0-6BEF-4659-B5CE-EF30E9C40587}|FirstProjectWithForms.csproj|C:\\Users\\Mahmoud\\Desktop\\Cources\\Course_C#\\C_Sharp_D\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A7FD5D0-6BEF-4659-B5CE-EF30E9C40587}|FirstProjectWithForms.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmMain.cs",
+              "DocumentMoniker": "C:\\Users\\Mahmoud\\Desktop\\Cources\\Course_C#\\C_Sharp_D\\frmMain.cs",
+              "RelativeDocumentMoniker": "frmMain.cs",
+              "ToolTip": "C:\\Users\\Mahmoud\\Desktop\\Cources\\Course_C#\\C_Sharp_D\\frmMain.cs",
+              "RelativeToolTip": "frmMain.cs",
+              "ViewState": "AQIAAFMAAAAAAAAAAAAmwFoAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T22:18:50.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmMain.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Mahmoud\\Desktop\\Cources\\Course_C#\\C_Sharp_D\\frmMain.cs",
+              "RelativeDocumentMoniker": "frmMain.cs",
+              "ToolTip": "C:\\Users\\Mahmoud\\Desktop\\Cources\\Course_C#\\C_Sharp_D\\frmMain.cs [Design]",
+              "RelativeToolTip": "frmMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T22:18:50.5Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmPizza.cs",
+              "DocumentMoniker": "C:\\Users\\Mahmoud\\Desktop\\Cources\\Course_C#\\C_Sharp_D\\frmPizza.cs",
+              "RelativeDocumentMoniker": "frmPizza.cs",
+              "ToolTip": "C:\\Users\\Mahmoud\\Desktop\\Cources\\Course_C#\\C_Sharp_D\\frmPizza.cs",
+              "RelativeToolTip": "frmPizza.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAA9wEwAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T22:18:50.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmPizza.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Mahmoud\\Desktop\\Cources\\Course_C#\\C_Sharp_D\\frmPizza.cs",
+              "RelativeDocumentMoniker": "frmPizza.cs",
+              "ToolTip": "C:\\Users\\Mahmoud\\Desktop\\Cources\\Course_C#\\C_Sharp_D\\frmPizza.cs [Design]",
+              "RelativeToolTip": "frmPizza.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T22:18:50.503Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Mahmoud\\Desktop\\Cources\\Course_C#\\C_Sharp_D\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Mahmoud\\Desktop\\Cources\\Course_C#\\C_Sharp_D\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T22:18:50.504Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Mahmoud\\Desktop\\Cources\\Course_C#\\C_Sharp_D\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Mahmoud\\Desktop\\Cources\\Course_C#\\C_Sharp_D\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAhwBgAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T22:18:50.504Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
